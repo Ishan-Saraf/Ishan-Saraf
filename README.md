@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ishan Saraf</h1>
 <h3 align="center">A result oriented full stack developer from India</h3>
+<h3 align="center">Check out my <a href="https://master--ishan-saraf-portfolio.netlify.app/">portfolio</a>!</h3>
 
 <p align="center">
   <img align="center" alt="coding" height="auto" width="300px" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif">
